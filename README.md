@@ -24,7 +24,7 @@
 ## 💭 Modelagem Conceitual
    <img src="Modelo Conceitual.jpeg"><br />
 * ## Entidades e seus Atributos:
-  **`AUTOR (autorID, Email, Nacionalidade, Nome); 
+  **`AUTOR`** (autorID, Email, Nacionalidade, Nome); 
 
   **`BIBLIOTECARIO`** (CPF, Nome, Email, Celular); 
 
