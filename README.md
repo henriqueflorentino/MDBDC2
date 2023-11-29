@@ -38,23 +38,23 @@
 
 * ## Explicando os relacionamentos:
   **Livro e Autor (Muitos para Muitos - N:N):**
-  > Descrição: Reflete a capacidade de um livro ter vários autores e um autor ter contribuído para vários livros. Essa relação suporta a diversidade de colaborações na criação de obras.
+  > *Reflete a capacidade de um livro ter vários autores e um autor ter contribuído para vários livros. Essa relação suporta a diversidade de colaborações na criação de obras.*
   
   **Livro e Categoria (Muitos para Muitos - N:N):**
-  > Descrição: Indica que um livro pode pertencer a várias categorias e, simultaneamente, uma categoria pode abranger vários livros. Isso permite uma classificação versátil dos livros 
-    em diferentes temas.
+  > *Indica que um livro pode pertencer a várias categorias e, simultaneamente, uma categoria pode abranger vários livros. Isso permite uma classificação versátil dos livros 
+    em diferentes temas.*
   
   **Emprestimo e Livro (Um para Muitos - 1:N):**
-  > Descrição: Estabelece que um livro pode estar associado a vários empréstimos, mas cada empréstimo está relacionado a apenas um livro. Isso permite o rastreamento do histórico de 
-  empréstimos de cada livro.
+  > *Estabelece que um livro pode estar associado a vários empréstimos, mas cada empréstimo está relacionado a apenas um livro. Isso permite o rastreamento do histórico de 
+  empréstimos de cada livro.*
   
   **Emprestimo e Usuario (Um para Um - 1:1):**
-  > Descrição: Garante que um usuário pode ter no máximo um livro emprestado por vez. Essa restrição simplifica o controle de empréstimos para cada usuário, promovendo uma gestão mais 
-  eficaz.
+  > *Garante que um usuário pode ter no máximo um livro emprestado por vez. Essa restrição simplifica o controle de empréstimos para cada usuário, promovendo uma gestão mais 
+  eficaz.*
   
   **Emprestimo e Bibliotecario (Um para Um - 1:1):**
-  > Descrição: Define que um empréstimo está associado a um bibliotecário responsável. Isso permite rastrear quem realizou o empréstimo e facilita o gerenciamento do sistema por parte 
-    dos bibliotecários.
+  > *Define que um empréstimo está associado a um bibliotecário responsável. Isso permite rastrear quem realizou o empréstimo e facilita o gerenciamento do sistema por parte 
+    dos bibliotecários.*
   
   Esses relacionamentos formam a estrutura do banco de dados, permitindo uma representação eficaz das interações entre usuários, livros, autores e empréstimos no contexto da biblioteca.
  
