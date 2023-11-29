@@ -22,6 +22,7 @@
 
 
 ## 💭 Modelagem Conceitual
+   <img src="Modelo Conceitual.jpeg"><br />
 ## 🧠 Modelagem Lógica
 ## 📈 Dados
 ## ⚙️ CRUD
