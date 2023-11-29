@@ -1,5 +1,5 @@
-# MDBDC2
-Trabalho Final de Modelagem de Banco de Dados Completa - 2º Bimestre 
+# Trabalho Final de Modelagem de Banco de Dados Completa - 2º Bimestre 
+
 
 ## 💡 Cenário 
 * ## Sistema de Gerenciamento para uma Biblioteca 📖
