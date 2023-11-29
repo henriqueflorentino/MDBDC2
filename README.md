@@ -23,6 +23,19 @@
 
 ## 💭 Modelagem Conceitual
    <img src="Modelo Conceitual.jpeg"><br />
+* ## Entidades e seus Atributos:
+  **`AUTOR (autorID, Email, Nacionalidade, Nome); 
+
+  **`BIBLIOTECARIO`** (CPF, Nome, Email, Celular); 
+
+  **`CATEGORIA`** (categoriaID, LivrosTotal, Nome); 
+
+  **`EMPRESTIMO`** (emprestID, Atraso, Data do empréstimo, Data da devolução); 
+
+  **`LIVRO`** (ISBN, Ano, Quantidade de Páginas, Título); 
+
+  **`USUÁRIO`** (CPF, Nome, Email, Celular, Endereço); 
+ 
 ## 🧠 Modelagem Lógica
 ## 📈 Dados
 ## ⚙️ CRUD
