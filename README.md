@@ -85,14 +85,10 @@
      quais transações de empréstimo.*
 
 
-
-
-
-
-
   Esses relacionamentos formam a estrutura do banco de dados, permitindo uma representação eficaz das interações entre usuários, livros, autores e empréstimos no contexto da biblioteca.
  
 ## 🧠 Modelagem Lógica
+   <img src="ModeloLogico.jpeg"><br />
 ## 📈 Dados
 ## ⚙️ CRUD
 ## 📝 Relatórios.
