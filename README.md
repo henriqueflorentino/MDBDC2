@@ -96,9 +96,8 @@
    <img src="ex2.jpg"><br /><br />
    <img src="ex3.jpg"><br /><br />
    <img src="ex4.jpg"><br /><br />
+   <img src="ex5.jpg"><br /><br />
    <img src="ex6.jpg"><br /><br />
-   <img src="ex7.jpg"><br /><br />
-   <img src="ex7.jpg"><br /><br />
 ## 📈 Dados
 ## ⚙️ CRUD
 ## 📝 Relatórios.
