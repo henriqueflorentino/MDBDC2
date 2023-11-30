@@ -89,6 +89,15 @@
  
 ## 🧠 Modelagem Lógica
    <img src="ModeloLogico.jpeg"><br />
+
+## 💻 Modelagem Física
+   <img src="ex1.jpeg"><br />
+   <img src="ex2.jpeg"><br />
+   <img src="ex3.jpeg"><br />
+   <img src="ex4.jpeg"><br />
+   <img src="ex5.jpeg"><br />
+   <img src="ex6.jpeg"><br />
+   <img src="ex7.jpeg"><br />
 ## 📈 Dados
 ## ⚙️ CRUD
 ## 📝 Relatórios.
