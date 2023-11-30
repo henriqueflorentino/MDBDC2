@@ -100,7 +100,7 @@
    <img src="ex5.jpg"><br /><br />
    <img src="ex6.jpg"><br /><br />
 ## 📈 Dados
- ## Aqui está todas as 20 inserções de dados em cada tabela:
+ ## Aqui está todas as 20 inserções de dados em cada tabela:<br />
 
 * ## Bibliotecario:
      <img src="b1.jpeg"><br /><br />
@@ -133,8 +133,18 @@
      <img src="EMP1.jpeg"><br /><br />
      <img src="EMP2.jpeg"><br /><br />
 
-
-
-
 ## ⚙️ CRUD
+## Aqui está a demonstração por meio de prints do CRUD dentro do SGBD (Inserção de dados, Leitura de Dados, Deleção e Alteração de Dados).<br />
+
+* ## Inserção de dados:
+     <img src="CRUD1.jpeg"><br /><br />
+* ## Leitura de Dados:
+     <img src="CRUD2.jpeg"><br /><br />
+* ## Deleção:
+     <img src="CRUD3.jpeg"><br /><br />
+* ## Alteração de Dados:
+     <img src="CRUD4.jpeg"><br /><br />
+
+
+
 ## 📝 Relatórios.
