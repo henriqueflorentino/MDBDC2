@@ -91,7 +91,7 @@
    <img src="ModeloLogico.jpeg"><br />
 
 ## 💻 Modelagem Física
-* Para a criação do modelo físico, foi utilizado o os seguintes códigos para criação das tabelas:<br />
+* ## Para a criação do modelo físico, foi utilizado o os seguintes códigos para criação das tabelas:<br />
    <img src="ex1.jpg"><br /><br />
    <img src="ex2.jpg"><br /><br />
    <img src="ex3.jpg"><br /><br />
