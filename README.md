@@ -165,7 +165,7 @@
   <img src="r5.jpg"><br /><br />
 
 * ## 6-Usuários por Bairro:
-  <img src="r26.jpg"><br /><br />
+  <img src="r6.jpg"><br /><br />
 
 * ## 7-Livros por Autor:
   <img src="r7.jpg"><br /><br />
