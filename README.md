@@ -150,22 +150,32 @@
 ## 📝 Relatórios
 
 * ## 1-Livros por Categoria:
+  <img src="r1.jpg"><br /><br />
 
 * ## 2-Autores por Livro:
+  <img src="r2.jpg"><br /><br />
 
 * ## 3-Empréstimos por Usuário:
+  <img src="r3.jpg"><br /><br />
 
 * ## 4-Bibliotecários e Livros:
+  <img src="r4.jpg"><br /><br />
 
 * ## 5-Livros com mais de 500 Páginas:
+  <img src="r5.jpg"><br /><br />
 
 * ## 6-Usuários por Bairro:
+  <img src="r26.jpg"><br /><br />
 
 * ## 7-Livros por Autor:
+  <img src="r7.jpg"><br /><br />
 
 * ## 8-Empréstimos Atrasados:
+  <img src="r8.jpg"><br /><br />
 
 * ## 9-Ano de Publicação:
+  <img src="r9.jpg"><br /><br />
 
 * ## 10-Usuários e seus Celulares:
+  <img src="r10.jpg"><br /><br />
 
