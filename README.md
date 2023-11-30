@@ -101,5 +101,20 @@
    <img src="ex6.jpg"><br /><br />
 ## 📈 Dados
 * ## Aqui está todas as 20 inserções de dados em cada tabela:
+
+* ## Bibliotecario:
+* ## Usuario:
+* ## Autor:
+* ## Categoria:
+* ## Livro:
+* ## LivroAutor:
+* ## LivroCategoria:
+* ## Celular:
+* ## Email:
+* ## Emprestimo:
+
+
+
+
 ## ⚙️ CRUD
 ## 📝 Relatórios.
