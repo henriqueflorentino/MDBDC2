@@ -55,7 +55,41 @@
   **Emprestimo e Bibliotecario (Um para Um - 1:1):**
   > *Define que um empréstimo está associado a um bibliotecário responsável. Isso permite rastrear quem realizou o empréstimo e facilita o gerenciamento do sistema por parte 
     dos bibliotecários.*
+
+  **Bibliotecario e Autor (Um para Muitos - 1:N):**
   
+  > *Explicação: Indica que um bibliotecário pode estar associado a vários autores, mas um autor está relacionado a apenas 
+    um bibliotecário. Isso pode ser útil para registrar quais bibliotecários são responsáveis por quais autores.*
+
+  **Bibliotecario e Categoria (Um para Muitos - 1:N):**
+
+  > *Explicação: Estabelece que um bibliotecário pode estar associado a várias categorias, mas uma categoria está 
+     relacionada a apenas um bibliotecário. Isso pode ser usado para atribuir responsabilidades específicas aos 
+     bibliotecários em relação a categorias específicas.*
+  
+  **Bibliotecario e Livro (Um para Muitos - 1:N):**
+
+  > *Explicação: Indica que um bibliotecário pode estar associado a vários livros, mas um livro está relacionado a apenas 
+     um bibliotecário. Isso pode ser útil para rastrear quais bibliotecários são responsáveis por quais livros.*
+
+  **Bibliotecario e Usuario (Um para Muitos - 1:N):**
+
+  > *Explicação: Define que um bibliotecário pode estar associado a vários usuários, mas um usuário está relacionado a 
+     apenas um bibliotecário. Isso pode ser usado para atribuir responsabilidades específicas aos bibliotecários em relação 
+     aos usuários.*
+
+   **Bibliotecario e Emprestimo (Um para Muitos - 1:N):**
+
+  > *Explicação: Estabelece que um bibliotecário pode estar associado a vários empréstimos, mas um empréstimo está 
+     relacionado a apenas um bibliotecário. Isso pode ser útil para rastrear quais bibliotecários são responsáveis por 
+     quais transações de empréstimo.*
+
+
+
+
+
+
+
   Esses relacionamentos formam a estrutura do banco de dados, permitindo uma representação eficaz das interações entre usuários, livros, autores e empréstimos no contexto da biblioteca.
  
 ## 🧠 Modelagem Lógica
