@@ -140,9 +140,9 @@
      <img src="CRUD1.jpeg"><br /><br />
 * ## Leitura de Dados:
      <img src="CRUD2.jpeg"><br /><br />
-* ## Deleção:
-     <img src="CRUD3.jpeg"><br /><br />
 * ## Alteração de Dados:
+     <img src="CRUD3.jpeg"><br /><br />
+* ## Deleção:
      <img src="CRUD4.jpeg"><br /><br />
 
 
