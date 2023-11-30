@@ -100,5 +100,6 @@
    <img src="ex5.jpg"><br /><br />
    <img src="ex6.jpg"><br /><br />
 ## 📈 Dados
+* ## Aqui está todas as 20 inserções de dados em cada tabela:
 ## ⚙️ CRUD
 ## 📝 Relatórios.
