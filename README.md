@@ -103,15 +103,35 @@
 * ## Aqui está todas as 20 inserções de dados em cada tabela:
 
 * ## Bibliotecario:
+     <img src="b1.jpeg"><br /><br />
+     <img src="b2.jpeg"><br /><br />
 * ## Usuario:
+     <img src="U1.jpeg"><br /><br />
+     <img src="U2.jpeg"><br /><br />
 * ## Autor:
+     <img src="a1.jpeg"><br /><br />
+     <img src="a2.jpeg"><br /><br />
 * ## Categoria:
+     <img src="c1.jpeg"><br /><br />
+     <img src="c2.jpeg"><br /><br />
 * ## Livro:
+     <img src="L1.jpeg"><br /><br />
+     <img src="L2.jpeg"><br /><br />
 * ## LivroAutor:
+     <img src="LA1.jpeg"><br /><br />
+     <img src="LA2.jpeg"><br /><br />
 * ## LivroCategoria:
+     <img src="LC1.jpeg"><br /><br />
+     <img src="LC2.jpeg"><br /><br />
 * ## Celular:
+     <img src="CE1.jpeg"><br /><br />
+     <img src="CE2.jpeg"><br /><br />
 * ## Email:
+     <img src="EM1.jpeg"><br /><br />
+     <img src="EM2.jpeg"><br /><br />
 * ## Emprestimo:
+     <img src="EMP1.jpeg"><br /><br />
+     <img src="EMP2.jpeg"><br /><br />
 
 
 
