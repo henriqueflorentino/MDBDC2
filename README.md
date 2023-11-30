@@ -147,4 +147,25 @@
 
 
 
-## 📝 Relatórios.
+## 📝 Relatórios
+
+* ## 1-Livros por Categoria:
+
+* ## 2-Autores por Livro:
+
+* ## 3-Empréstimos por Usuário:
+
+* ## 4-Bibliotecários e Livros:
+
+* ## 5-Livros com mais de 500 Páginas:
+
+* ## 6-Usuários por Bairro:
+
+* ## 7-Livros por Autor:
+
+* ## 8-Empréstimos Atrasados:
+
+* ## 9-Ano de Publicação:
+
+* ## 10-Usuários e seus Celulares:
+
